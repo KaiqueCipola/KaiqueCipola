@@ -1,6 +1,5 @@
 ## Meu Perfil!
 
-- 🔭 Trabalho como Jovem DEV na Digix 
 - 🌱 No momento estou estudando Python
 - 👯 EStou buscando trabalhar como DEV Júnior
 - ⚡ CS:GO > Valorant
