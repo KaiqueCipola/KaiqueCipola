@@ -1,6 +1,6 @@
 ## Meu Perfil!
 
-- 🌱 No momento estou estudando Python
+- 🌱 No momento estou estudando Vue
 - 👯 EStou buscando trabalhar como DEV Júnior
 - ⚡ CS:GO > Valorant
 
